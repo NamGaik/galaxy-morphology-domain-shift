@@ -1,0 +1,4 @@
+Model,Parameters (M),Inference (ms),Accuracy (%)
+ResNet50,23.53,7.98,85.83
+ViT_Small,21.67,7.78,85.68
+Zoobot,4.34,10.93,89.14

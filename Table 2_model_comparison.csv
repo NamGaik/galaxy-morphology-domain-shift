@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-macro,ECE,Inference,Params(M)
+ResNet50,85.83,84.13,85.03,84.23,0.0628,12.55,23.53
+ViT_Small,85.68,84.33,84.5,84.38,0.051,11.51,21.67
+Zoobot,89.14,87.61,86.66,86.93,0.0904,21.63,4.34

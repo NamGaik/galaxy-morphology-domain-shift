@@ -1,0 +1,11 @@
+Class,ResNet50,ViT_Small,Zoobot
+Disturbed,46.9,56.2,53.1
+Merging,90.3,92.8,91.7
+Round Smooth,96.5,92.4,97.7
+In-between Smooth,94.7,90.5,94.1
+Cigar Smooth,94,84,78
+Barred Spiral,87.3,88.9,92.5
+Unbarred Tight Spiral,75.9,74.5,83.6
+Unbarred Loose Spiral,73.6,75.9,82.7
+Edge-on without Bulge,95.3,93.5,95.3
+Edge-on with Bulge,95.7,96.4,97.9

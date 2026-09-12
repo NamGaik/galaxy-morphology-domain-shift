@@ -1,0 +1,4 @@
+Model,N_calib,N_calibeval,Temperature,ECE before (held-out),ECE after (held-out),Improvement
+ResNet50,3480,13921,1.08,0.0685,0.0888,-0.0203
+ViT_Small,3480,13921,1.52,0.254,0.0939,0.16
+Zoobot,3480,13921,1.012,0.1476,0.1524,-0.0049

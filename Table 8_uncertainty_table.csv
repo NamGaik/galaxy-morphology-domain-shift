@@ -1,0 +1,4 @@
+Model,Unc (correct),Unc (wrong),Ratio wrong/correct,Correct count,Wrong count
+ResNet50,0.00119,0.00311,2.62,2283,378
+ViT_Small,0.00478,0.01571,3.28,2283,378
+Zoobot,0.00216,0.00557,2.58,2373,288
