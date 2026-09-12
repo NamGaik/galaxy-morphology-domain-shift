@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+astroNN
+zoobot
+huggingface_hub
+scikit-learn
+torchmetrics
+pytorch-grad-cam
+matplotlib
+seaborn
+numpy
+pandas
+h5py
