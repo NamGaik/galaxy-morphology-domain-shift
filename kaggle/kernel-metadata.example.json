@@ -1,0 +1,13 @@
+{
+  "id": "YOUR_KAGGLE_USERNAME/YOUR_KERNEL_SLUG",
+  "title": "YOUR KERNEL TITLE",
+  "code_file": "run_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": ["ijlalahmed10/galaxy10-decals", "eliasillescas/galaxy10"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
