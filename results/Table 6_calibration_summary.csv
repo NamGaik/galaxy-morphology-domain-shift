@@ -1,4 +1,0 @@
-Model,Temperature,ECE (before),ECE (after),Improvement
-ResNet50,1.011,0.0628,0.0655,-0.0026
-ViT_Small,1.13,0.051,0.0766,-0.0257
-Zoobot,0.97,0.0904,0.0793,0.0111
